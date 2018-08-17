@@ -5,7 +5,7 @@
 * [TensorFlow - An open source machine learning framework for everyone.](https://www.tensorflow.org);
 * [Keras: The Python Deep Learning library](https://keras.io)
 
-#Installation:
+# Installation:
 
 You need to have install python 3.0 or later, and create a virtual enviroment using **venv**.
 
@@ -29,7 +29,7 @@ Then ` cd ` to the Keras folder and run the install command:
 	$ sudo python setup.py install
 
 
-#Configure Keras:
+# Configure Keras:
 
 If you have run Keras at least once, you will find the Keras configuration file at:
 
@@ -52,6 +52,6 @@ You can also define the environment variable ` KERAS_BACKEND ` and this will ove
 	Using TensorFlow backend.
 
 
-#Using Keras:
+# Using Keras:
 
 
